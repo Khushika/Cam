@@ -1,1 +1,1 @@
-# Cam
+# Campus Entry Management System

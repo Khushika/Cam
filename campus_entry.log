@@ -1,0 +1,486 @@
+2025-02-26 22:45:39,207 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:45:41,644 - WARNING -  * Debugger is active!
+2025-02-26 22:45:41,651 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:45:41,694 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:45:41,694 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:45:47,400 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\x.py', reloading
+2025-02-26 22:45:47,510 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\app.py', reloading
+2025-02-26 22:45:48,121 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:45:54,455 - WARNING -  * Debugger is active!
+2025-02-26 22:45:54,465 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:45:54,526 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\build\\__init__.py', reloading
+2025-02-26 22:45:54,553 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:45:54,554 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:45:54,558 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\build\\_builder.py', reloading
+2025-02-26 22:45:54,592 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\build\\_exceptions.py', reloading
+2025-02-26 22:45:54,603 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\build\\_types.py', reloading
+2025-02-26 22:45:54,615 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproject_hooks\\__init__.py', reloading
+2025-02-26 22:45:54,629 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproject_hooks\\_impl.py', reloading
+2025-02-26 22:45:54,647 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\build\\_util.py', reloading
+2025-02-26 22:45:54,660 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\cachecontrol\\__init__.py', reloading
+2025-02-26 22:45:54,678 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\cachecontrol\\adapter.py', reloading
+2025-02-26 22:45:54,717 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\cachecontrol\\controller.py', reloading
+2025-02-26 22:45:54,740 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\cachecontrol\\wrapper.py', reloading
+2025-02-26 22:45:54,962 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\cleo\\__init__.py', reloading
+2025-02-26 22:45:54,978 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\comm\\__init__.py', reloading
+2025-02-26 22:45:54,991 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\crashtest\\__init__.py', reloading
+2025-02-26 22:45:55,004 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\debugpy\\__init__.py', reloading
+2025-02-26 22:45:55,021 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\debugpy\\public_api.py', reloading
+2025-02-26 22:45:55,042 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\dulwich\\__init__.py', reloading
+2025-02-26 22:45:55,056 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\executing\\__init__.py', reloading
+2025-02-26 22:45:55,074 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\executing\\executing.py', reloading
+2025-02-26 22:45:55,128 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\fastjsonschema\\__init__.py', reloading
+2025-02-26 22:45:55,145 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\fastjsonschema\\exceptions.py', reloading
+2025-02-26 22:45:55,157 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\fastjsonschema\\version.py', reloading
+2025-02-26 22:45:55,167 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\installer\\__init__.py', reloading
+2025-02-26 22:45:55,184 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\installer\\_core.py', reloading
+2025-02-26 22:45:55,197 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\ipykernel\\__init__.py', reloading
+2025-02-26 22:45:55,210 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\ipykernel\\connect.py', reloading
+2025-02-26 22:45:55,223 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\jupyter_client\\__init__.py', reloading
+2025-02-26 22:45:55,240 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\jupyter_client\\connect.py', reloading
+2025-02-26 22:45:55,271 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\jupyter_client\\launcher.py', reloading
+2025-02-26 22:45:55,299 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\jedi\\__init__.py', reloading
+2025-02-26 22:45:55,309 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\jupyter_core\\__init__.py', reloading
+2025-02-26 22:45:55,321 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\keyring\\__init__.py', reloading
+2025-02-26 22:45:55,335 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\keyring\\core.py', reloading
+2025-02-26 22:45:55,355 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\matplotlib_inline\\__init__.py', reloading
+2025-02-26 22:45:55,421 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\msgpack\\__init__.py', reloading
+2025-02-26 22:45:55,437 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Roaming\\Python\\Python312\\site-packages\\parso\\__init__.py', reloading
+2025-02-26 22:45:55,758 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:45:58,694 - WARNING -  * Debugger is active!
+2025-02-26 22:45:58,698 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:45:58,735 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:45:58,735 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:45:58,761 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\schema\\core.py', reloading
+2025-02-26 22:45:58,827 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\schema\\channels.py', reloading
+2025-02-26 22:45:58,941 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\api.py', reloading
+2025-02-26 22:45:58,979 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\utils\\schemapi.py', reloading
+2025-02-26 22:45:59,007 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\utils\\__init__.py', reloading
+2025-02-26 22:45:59,025 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\utils\\core.py', reloading
+2025-02-26 22:45:59,045 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\data.py', reloading
+2025-02-26 22:45:59,059 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\display.py', reloading
+2025-02-26 22:45:59,072 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\theme.py', reloading
+2025-02-26 22:45:59,088 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\v5\\compiler.py', reloading
+2025-02-26 22:45:59,116 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\utils\\data.py', reloading
+2025-02-26 22:45:59,142 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\expr\\__init__.py', reloading
+2025-02-26 22:45:59,163 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\expr\\funcs.py', reloading
+2025-02-26 22:45:59,190 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\expr\\consts.py', reloading
+2025-02-26 22:45:59,217 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\expr\\core.py', reloading
+2025-02-26 22:45:59,248 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\vegalite\\data.py', reloading
+2025-02-26 22:45:59,262 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\jupyter\\__init__.py', reloading
+2025-02-26 22:45:59,280 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\altair\\jupyter\\jupyter_chart.py', reloading
+2025-02-26 22:45:59,304 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\annotated_types\\__init__.py', reloading
+2025-02-26 22:45:59,325 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\__init__.py', reloading
+2025-02-26 22:45:59,342 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_eventloop.py', reloading
+2025-02-26 22:45:59,358 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_exceptions.py', reloading
+2025-02-26 22:45:59,373 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_fileio.py', reloading
+2025-02-26 22:45:59,385 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_resources.py', reloading
+2025-02-26 22:45:59,396 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_signals.py', reloading
+2025-02-26 22:45:59,410 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_sockets.py', reloading
+2025-02-26 22:45:59,423 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_streams.py', reloading
+2025-02-26 22:45:59,433 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py', reloading
+2025-02-26 22:45:59,449 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_synchronization.py', reloading
+2025-02-26 22:45:59,460 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_tasks.py', reloading
+2025-02-26 22:45:59,469 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_testing.py', reloading
+2025-02-26 22:45:59,483 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\anyio\\_core\\_typedattr.py', reloading
+2025-02-26 22:45:59,491 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\apiclient\\__init__.py', reloading
+2025-02-26 22:45:59,499 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\asgiref\\__init__.py', reloading
+2025-02-26 22:45:59,513 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\astor\\__init__.py', reloading
+2025-02-26 22:45:59,521 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\astunparse\\__init__.py', reloading
+2025-02-26 22:45:59,568 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\benchmarks\\__init__.py', reloading
+2025-02-26 22:45:59,574 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bert_serving\\__init__.py', reloading
+2025-02-26 22:45:59,596 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\black\\__init__.py', reloading
+2025-02-26 22:45:59,630 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\black\\mode.py', reloading
+2025-02-26 22:45:59,643 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blackd\\__init__.py', reloading
+2025-02-26 22:45:59,650 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blib2to3\\__init__.py', reloading
+2025-02-26 22:45:59,659 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blinker\\__init__.py', reloading
+2025-02-26 22:45:59,674 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blinker\\base.py', reloading
+2025-02-26 22:45:59,684 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\blis\\__init__.py', reloading
+2025-02-26 22:45:59,695 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\branca\\__init__.py', reloading
+2025-02-26 22:45:59,713 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\catalogue\\__init__.py', reloading
+2025-02-26 22:45:59,721 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\catboost\\__init__.py', reloading
+2025-02-26 22:45:59,737 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\catboost\\core.py', reloading
+2025-02-26 22:45:59,879 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:03,102 - WARNING -  * Debugger is active!
+2025-02-26 22:46:03,107 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:03,147 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:46:03,147 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:46:03,149 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fsspec\\exceptions.py', reloading
+2025-02-26 22:46:03,163 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fsspec\\mapping.py', reloading
+2025-02-26 22:46:03,185 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fsspec\\registry.py', reloading
+2025-02-26 22:46:03,205 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fsspec\\spec.py', reloading
+2025-02-26 22:46:03,235 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\functorch\\__init__.py', reloading
+2025-02-26 22:46:03,247 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fvcore\\__init__.py', reloading
+2025-02-26 22:46:03,263 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gast\\__init__.py', reloading
+2025-02-26 22:46:03,277 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gensim\\__init__.py', reloading
+2025-02-26 22:46:03,292 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\__init__.py', reloading
+2025-02-26 22:46:03,317 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\util.py', reloading
+2025-02-26 22:46:03,330 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\exc.py', reloading
+2025-02-26 22:46:03,348 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\exc.py', reloading
+2025-02-26 22:46:03,368 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\types.py', reloading
+2025-02-26 22:46:03,381 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\compat.py', reloading
+2025-02-26 22:46:03,400 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\config.py', reloading
+2025-02-26 22:46:03,411 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\__init__.py', reloading
+2025-02-26 22:46:03,424 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\blob.py', reloading
+2025-02-26 22:46:03,443 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\commit.py', reloading
+2025-02-26 22:46:03,465 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\base.py', reloading
+2025-02-26 22:46:03,482 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\__init__.py', reloading
+2025-02-26 22:46:03,494 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\root.py', reloading
+2025-02-26 22:46:03,519 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\submodule\\base.py', reloading
+2025-02-26 22:46:03,551 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\tag.py', reloading
+2025-02-26 22:46:03,580 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\objects\\tree.py', reloading
+2025-02-26 22:46:03,596 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\__init__.py', reloading
+2025-02-26 22:46:03,608 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\head.py', reloading
+2025-02-26 22:46:03,618 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\log.py', reloading
+2025-02-26 22:46:03,629 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\reference.py', reloading
+2025-02-26 22:46:03,641 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\remote.py', reloading
+2025-02-26 22:46:03,653 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\symbolic.py', reloading
+2025-02-26 22:46:03,670 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\refs\\tag.py', reloading
+2025-02-26 22:46:03,684 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\diff.py', reloading
+2025-02-26 22:46:03,698 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\db.py', reloading
+2025-02-26 22:46:03,708 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\__init__.py', reloading
+2025-02-26 22:46:03,726 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\base.py', reloading
+2025-02-26 22:46:03,738 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\loose.py', reloading
+2025-02-26 22:46:03,750 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\mem.py', reloading
+2025-02-26 22:46:03,764 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\pack.py', reloading
+2025-02-26 22:46:03,776 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\git.py', reloading
+2025-02-26 22:46:03,788 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\db\\ref.py', reloading
+2025-02-26 22:46:03,801 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\cmd.py', reloading
+2025-02-26 22:46:03,814 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\repo\\__init__.py', reloading
+2025-02-26 22:46:03,832 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\repo\\base.py', reloading
+2025-02-26 22:46:03,854 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\remote.py', reloading
+2025-02-26 22:46:03,870 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\util.py', reloading
+2025-02-26 22:46:03,883 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\__init__.py', reloading
+2025-02-26 22:46:03,896 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\typ.py', reloading
+2025-02-26 22:46:03,918 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\git\\index\\base.py', reloading
+2025-02-26 22:46:03,934 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gitdb\\__init__.py', reloading
+2025-02-26 22:46:03,944 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\googleapiclient\\__init__.py', reloading
+2025-02-26 22:46:03,955 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gradio\\__init__.py', reloading
+2025-02-26 22:46:03,965 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gradio_client\\__init__.py', reloading
+2025-02-26 22:46:03,983 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gradio_client\\client.py', reloading
+2025-02-26 22:46:03,999 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gradio_client\\data_classes.py', reloading
+2025-02-26 22:46:04,014 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\gradio_client\\utils.py', reloading
+2025-02-26 22:46:04,036 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\__init__.py', reloading
+2025-02-26 22:46:04,054 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\_defaults.py', reloading
+2025-02-26 22:46:04,070 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\__init__.py', reloading
+2025-02-26 22:46:04,083 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\dot_command.py', reloading
+2025-02-26 22:46:04,100 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\unflattening.py', reloading
+2025-02-26 22:46:04,116 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\rendering.py', reloading
+2025-02-26 22:46:04,132 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\piping.py', reloading
+2025-02-26 22:46:04,152 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\graphviz\\backend\\upstream_version.py', reloading
+2025-02-26 22:46:04,362 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:07,475 - WARNING -  * Debugger is active!
+2025-02-26 22:46:07,482 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:07,512 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\langchain_text_splitters\\markdown.py', reloading
+2025-02-26 22:46:07,675 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:10,552 - WARNING -  * Debugger is active!
+2025-02-26 22:46:10,556 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:10,597 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\networks.py', reloading
+2025-02-26 22:46:10,598 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:46:10,598 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:46:10,631 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\types.py', reloading
+2025-02-26 22:46:10,651 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\deprecated\\tools.py', reloading
+2025-02-26 22:46:10,667 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\version.py', reloading
+2025-02-26 22:46:10,709 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_core\\core_schema.py', reloading
+2025-02-26 22:46:10,742 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py', reloading
+2025-02-26 22:46:10,770 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\aliases.py', reloading
+2025-02-26 22:46:10,799 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\annotated_handlers.py', reloading
+2025-02-26 22:46:10,832 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\config.py', reloading
+2025-02-26 22:46:10,864 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\fields.py', reloading
+2025-02-26 22:46:10,904 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\functional_serializers.py', reloading
+2025-02-26 22:46:10,940 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\functional_validators.py', reloading
+2025-02-26 22:46:10,972 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\json_schema.py', reloading
+2025-02-26 22:46:11,004 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\type_adapter.py', reloading
+2025-02-26 22:46:11,043 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\validate_call_decorator.py', reloading
+2025-02-26 22:46:11,068 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\warnings.py', reloading
+2025-02-26 22:46:11,096 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py', reloading
+2025-02-26 22:46:11,119 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\deprecated\\config.py', reloading
+2025-02-26 22:46:11,151 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic\\root_model.py', reloading
+2025-02-26 22:46:11,171 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_core\\__init__.py', reloading
+2025-02-26 22:46:11,255 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_settings\\__init__.py', reloading
+2025-02-26 22:46:11,278 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_settings\\main.py', reloading
+2025-02-26 22:46:11,307 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydantic_settings\\sources.py', reloading
+2025-02-26 22:46:11,329 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydeck\\__init__.py', reloading
+2025-02-26 22:46:11,342 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydevd_plugins\\__init__.py', reloading
+2025-02-26 22:46:11,358 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydot\\__init__.py', reloading
+2025-02-26 22:46:11,371 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pydub\\__init__.py', reloading
+2025-02-26 22:46:11,386 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pynvml_utils\\__init__.py', reloading
+2025-02-26 22:46:11,404 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\__init__.py', reloading
+2025-02-26 22:46:11,420 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\util.py', reloading
+2025-02-26 22:46:11,442 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\exceptions.py', reloading
+2025-02-26 22:46:11,461 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\actions.py', reloading
+2025-02-26 22:46:11,479 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\results.py', reloading
+2025-02-26 22:46:11,500 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2025-02-26 22:46:11,534 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\helpers.py', reloading
+2025-02-26 22:46:11,560 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pyparsing\\unicode.py', reloading
+2025-02-26 22:46:11,823 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:14,983 - WARNING -  * Debugger is active!
+2025-02-26 22:46:14,991 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:15,037 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:46:15,038 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:46:15,041 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_wavelets.py', reloading
+2025-02-26 22:46:15,070 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+2025-02-26 22:46:15,104 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading
+2025-02-26 22:46:15,128 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\__init__.py', reloading
+2025-02-26 22:46:15,148 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_base.py', reloading
+2025-02-26 22:46:15,174 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_csr.py', reloading
+2025-02-26 22:46:15,190 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_csc.py', reloading
+2025-02-26 22:46:15,206 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_lil.py', reloading
+2025-02-26 22:46:15,232 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_dok.py', reloading
+2025-02-26 22:46:15,260 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_coo.py', reloading
+2025-02-26 22:46:15,291 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_dia.py', reloading
+2025-02-26 22:46:15,317 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_bsr.py', reloading
+2025-02-26 22:46:15,361 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+2025-02-26 22:46:15,393 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+2025-02-26 22:46:15,413 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+2025-02-26 22:46:15,438 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+2025-02-26 22:46:15,459 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+2025-02-26 22:46:15,503 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading
+2025-02-26 22:46:15,581 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+2025-02-26 22:46:15,638 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading
+2025-02-26 22:46:15,673 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_sf_error.py', reloading
+2025-02-26 22:46:15,703 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_logsumexp.py', reloading
+2025-02-26 22:46:15,724 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py', reloading
+2025-02-26 22:46:15,756 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py', reloading
+2025-02-26 22:46:15,798 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_lambertw.py', reloading
+2025-02-26 22:46:15,841 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py', reloading
+2025-02-26 22:46:15,874 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\stats\\__init__.py', reloading
+2025-02-26 22:46:15,967 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\stats\\_stats_py.py', reloading
+2025-02-26 22:46:15,998 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+2025-02-26 22:46:16,220 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:18,947 - WARNING -  * Debugger is active!
+2025-02-26 22:46:18,954 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:19,003 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:46:19,004 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:46:19,038 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\functions\\elementary\\integers.py', reloading
+2025-02-26 22:46:19,063 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\geometry\\__init__.py', reloading
+2025-02-26 22:46:19,091 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\geometry\\exceptions.py', reloading
+2025-02-26 22:46:19,240 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\matrices\\exceptions.py', reloading
+2025-02-26 22:46:19,264 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\matrices\\sparsetools.py', reloading
+2025-02-26 22:46:19,489 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\printing\\smtlib.py', reloading
+2025-02-26 22:46:19,505 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\release.py', reloading
+2025-02-26 22:46:19,544 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\series\\residues.py', reloading
+2025-02-26 22:46:19,559 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sympy\\series\\series.py', reloading
+2025-02-26 22:46:19,696 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\__init__.py', reloading
+2025-02-26 22:46:19,719 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\retry.py', reloading
+2025-02-26 22:46:19,733 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\nap.py', reloading
+2025-02-26 22:46:19,758 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\stop.py', reloading
+2025-02-26 22:46:19,791 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\wait.py', reloading
+2025-02-26 22:46:19,802 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\before.py', reloading
+2025-02-26 22:46:19,818 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\after.py', reloading
+2025-02-26 22:46:19,834 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\before_sleep.py', reloading
+2025-02-26 22:46:19,853 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tenacity\\asyncio\\__init__.py', reloading
+2025-02-26 22:46:19,871 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorboard\\__init__.py', reloading
+2025-02-26 22:46:19,888 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorboard_data_server\\__init__.py', reloading
+2025-02-26 22:46:19,904 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorflow\\__init__.py', reloading
+2025-02-26 22:46:19,995 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\termcolor\\__init__.py', reloading
+2025-02-26 22:46:20,137 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:27,060 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:46:29,469 - WARNING -  * Debugger is active!
+2025-02-26 22:46:29,473 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:46:29,508 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:46:29,509 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:47:15,788 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:47:15,821 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:47:18,173 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:47:18,181 - WARNING -  * Debugger is active!
+2025-02-26 22:47:18,187 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:47:18,228 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:47:18,228 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:49:43,325 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:49:43,363 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 22:49:45,622 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:49:45,629 - WARNING -  * Debugger is active!
+2025-02-26 22:49:45,633 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 22:49:45,669 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 22:49:45,669 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 22:54:43,402 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:54:45,645 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:59:43,459 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 22:59:45,655 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:04:43,491 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:04:45,671 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:09:43,532 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:09:45,685 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:14:43,610 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:14:45,850 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:46:34,976 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:46:35,041 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 23:46:37,937 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-26 23:46:37,949 - WARNING -  * Debugger is active!
+2025-02-26 23:46:37,956 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 23:46:38,005 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 23:46:38,005 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 23:46:50,492 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 23:46:53,057 - WARNING -  * Debugger is active!
+2025-02-26 23:46:53,061 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 23:46:53,105 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-26 23:46:53,105 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-26 23:47:07,590 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 23:47:10,076 - WARNING -  * Debugger is active!
+2025-02-26 23:47:10,081 - INFO -  * Debugger PIN: 297-562-735
+2025-02-26 23:47:10,126 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-02-27 17:56:42,936 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 17:56:46,185 - WARNING -  * Debugger is active!
+2025-02-27 17:56:46,197 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 17:56:46,247 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 17:56:46,250 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:02:53,292 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-27 19:02:53,350 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:02:56,960 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-27 19:02:56,968 - WARNING -  * Debugger is active!
+2025-02-27 19:02:56,975 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:02:57,029 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:02:57,029 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:03:28,293 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\best.py', reloading
+2025-02-27 19:03:28,298 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\y.py', reloading
+2025-02-27 19:03:28,303 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\x.py', reloading
+2025-02-27 19:03:28,899 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:03:33,316 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-27 19:03:33,328 - WARNING -  * Debugger is active!
+2025-02-27 19:03:33,336 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:03:33,399 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:03:33,399 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:04:16,054 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py', reloading
+2025-02-27 19:08:25,100 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-27 19:08:25,152 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:08:28,618 - ERROR - Error in cleanup: no such column: is_temporary
+2025-02-27 19:08:28,632 - WARNING -  * Debugger is active!
+2025-02-27 19:08:28,636 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:08:28,699 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:08:28,699 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:09:37,066 - INFO - 127.0.0.1 - - [27/Feb/2025 19:09:37] "GET / HTTP/1.1" 200 -
+2025-02-27 19:09:37,216 - INFO - 127.0.0.1 - - [27/Feb/2025 19:09:37] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-27 19:09:38,881 - INFO - 127.0.0.1 - - [27/Feb/2025 19:09:38] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:09:38,910 - INFO - 127.0.0.1 - - [27/Feb/2025 19:09:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-27 19:09:56,066 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:09:59,381 - WARNING -  * Debugger is active!
+2025-02-27 19:09:59,389 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:09:59,447 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:09:59,447 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:10:02,834 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:02] "GET / HTTP/1.1" 200 -
+2025-02-27 19:10:02,958 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:10:03,949 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:03] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:10:10,581 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:10] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:10:10,605 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:10] "GET /add_authorized HTTP/1.1" 200 -
+2025-02-27 19:10:13,805 - ERROR - Failed to send security notification email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-734a0024bd8sm1587995b3a.91 - gsmtp')
+2025-02-27 19:10:21,356 - INFO -  * Detected change in 'E:\\JAY_Project\\trial\\app.py', reloading
+2025-02-27 19:10:22,306 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:10:26,051 - WARNING -  * Debugger is active!
+2025-02-27 19:10:26,059 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:10:26,116 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:10:26,116 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:10:33,023 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\mime\\multipart.py', reloading
+2025-02-27 19:10:33,048 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\mime\\image.py', reloading
+2025-02-27 19:10:33,098 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py', reloading
+2025-02-27 19:10:33,200 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py', reloading
+2025-02-27 19:10:33,247 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sessions.py', reloading
+2025-02-27 19:10:33,480 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:10:37,200 - WARNING -  * Debugger is active!
+2025-02-27 19:10:37,214 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:10:37,262 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:10:37,262 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:10:47,526 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:10:51,201 - WARNING -  * Debugger is active!
+2025-02-27 19:10:51,216 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:10:51,257 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-02-27 19:10:51,275 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:51] "GET / HTTP/1.1" 200 -
+2025-02-27 19:10:51,358 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:10:53,524 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:53] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:10:57,377 - INFO - 127.0.0.1 - - [27/Feb/2025 19:10:57] "GET /add_authorized HTTP/1.1" 200 -
+2025-02-27 19:11:01,404 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:01] "GET / HTTP/1.1" 200 -
+2025-02-27 19:11:01,437 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:11:02,459 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:02] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:11:10,244 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:10] "GET / HTTP/1.1" 200 -
+2025-02-27 19:11:10,280 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:11:11,291 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:11] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:11:17,935 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:17] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:11:20,836 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:20] "GET / HTTP/1.1" 200 -
+2025-02-27 19:11:20,862 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:11:21,883 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:21] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:11:28,458 - INFO - 127.0.0.1 - - [27/Feb/2025 19:11:28] "[35m[1mPOST /process_entry HTTP/1.1[0m" 500 -
+2025-02-27 19:12:16,164 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:16] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:12:17,791 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:17] "[35m[1mPOST /process_exit HTTP/1.1[0m" 500 -
+2025-02-27 19:12:22,038 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:22] "POST /process_exit HTTP/1.1" 200 -
+2025-02-27 19:12:24,442 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:24] "GET /add_authorized HTTP/1.1" 200 -
+2025-02-27 19:12:45,620 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "[35m[1mPOST /add_authorized HTTP/1.1[0m" 500 -
+2025-02-27 19:12:45,693 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "GET /add_authorized?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-27 19:12:45,739 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "GET /add_authorized?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-27 19:12:45,847 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "GET /add_authorized?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-02-27 19:12:45,863 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "GET /add_authorized?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-27 19:12:45,881 - INFO - 127.0.0.1 - - [27/Feb/2025 19:12:45] "GET /add_authorized?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-27 19:13:00,508 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:13:03,906 - WARNING -  * Debugger is active!
+2025-02-27 19:13:03,919 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:13:03,967 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:13:03,967 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:13:07,686 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:07] "GET / HTTP/1.1" 200 -
+2025-02-27 19:13:07,833 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:13:09,555 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:09] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:13:14,862 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:14] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:13:17,579 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:17] "GET / HTTP/1.1" 200 -
+2025-02-27 19:13:17,604 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:13:18,582 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:18] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:13:24,431 - INFO - 127.0.0.1 - - [27/Feb/2025 19:13:24] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:13:28,163 - ERROR - Failed to send security notification email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-aee7de1f7a6sm1379307a12.30 - gsmtp')
+2025-02-27 19:15:09,090 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\typing.py', reloading
+2025-02-27 19:15:09,138 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py', reloading
+2025-02-27 19:15:09,523 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:15:13,472 - WARNING -  * Debugger is active!
+2025-02-27 19:15:13,488 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:15:13,539 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:15:13,539 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:19:14,680 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2025-02-27 19:19:14,728 - INFO -  * Detected change in 'C:\\Users\\khush\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dotenv\\main.py', reloading
+2025-02-27 19:19:15,715 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:19:19,421 - WARNING -  * Debugger is active!
+2025-02-27 19:19:19,428 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:19:19,487 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:19:19,487 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:20:19,505 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:20:22,945 - WARNING -  * Debugger is active!
+2025-02-27 19:20:22,963 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:20:23,005 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:20:23,005 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:21:05,730 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:05] "GET / HTTP/1.1" 200 -
+2025-02-27 19:21:06,066 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:21:07,369 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:07] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:21:12,217 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:12] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:21:15,203 - ERROR - Failed to send security notification email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7349fe2b0f9sm1567340b3a.22 - gsmtp')
+2025-02-27 19:21:49,147 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:49] "GET /add_authorized HTTP/1.1" 200 -
+2025-02-27 19:21:50,868 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:50] "POST /process_exit HTTP/1.1" 200 -
+2025-02-27 19:21:51,641 - INFO - 127.0.0.1 - - [27/Feb/2025 19:21:51] "GET /add_authorized HTTP/1.1" 200 -
+2025-02-27 19:25:48,552 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-27 19:25:52,080 - WARNING -  * Debugger is active!
+2025-02-27 19:25:52,080 - INFO -  * Debugger PIN: 297-562-735
+2025-02-27 19:25:52,136 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-02-27 19:25:52,136 - INFO -  * Running on http://192.168.0.105:5000/ (Press CTRL+C to quit)
+2025-02-27 19:25:52,406 - INFO - 127.0.0.1 - - [27/Feb/2025 19:25:52] "GET / HTTP/1.1" 200 -
+2025-02-27 19:25:52,552 - INFO - 127.0.0.1 - - [27/Feb/2025 19:25:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-27 19:25:53,634 - INFO - 127.0.0.1 - - [27/Feb/2025 19:25:53] "GET /video_feed HTTP/1.1" 200 -
+2025-02-27 19:25:56,274 - INFO - 127.0.0.1 - - [27/Feb/2025 19:25:56] "POST /process_entry HTTP/1.1" 200 -
+2025-02-27 19:25:59,485 - ERROR - Failed to send security notification email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-734a0040208sm1557595b3a.154 - gsmtp')
